@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Olá! Eu sou Giovanni Augusto 🧑🏾‍💻  <br>Estudante de Análise e Desenvolvimento de Sistemas com foco em Engenharia de Dados e desenvolvimento back-end.  <br>Atualmente estudo Python, Java, SQL e bancos de dados, desenvolvendo projetos práticos voltados para automação, processamento de dados e criação de soluções escaláveis.</p>
+<p data-importer="text" align="left">Olá! Eu sou Giovanni Augusto 🧑🏾‍💻<br><br>Estudante de Análise e Desenvolvimento de Sistemas, com foco em Engenharia de Dados e desenvolvimento back-end. Atualmente estudo Python, SQL, Java e bancos de dados, desenvolvendo projetos práticos voltados para ETL, automação, processamento de dados e criação de soluções escaláveis.<br><br>Também direciono meus estudos para automação de pipelines de dados com Apache Airflow, computação em nuvem (Cloud) e Databricks, buscando construir soluções modernas, eficientes e escaláveis para o tratamento e análise de dados.</p>
 
 ###
 
